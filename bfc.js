@@ -9,8 +9,8 @@
 // @match        https://blockfarm.club/farm/*
 // @icon         https://www.google.com/s2/favicons?domain=blockfarm.club
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
-// @updateURL https://raw.githubusercontent.com/victorscopel/melhoriasbfc/master/bfc.js
-// @downloadURL https://raw.githubusercontent.com/victorscopel/melhoriasbfc/master/bfc.js
+// @updateURL https://raw.githubusercontent.com/victorscopel/melhoriasbfc/main/bfc.js
+// @downloadURL https://raw.githubusercontent.com/victorscopel/melhoriasbfc/main/bfc.js
 // @grant GM_xmlhttpRequest
 // @grant GM_setValue
 // @grant GM_getValue
