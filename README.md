@@ -3,7 +3,7 @@
 Este script vai converter automaticamente o horário de colher das plantas de UTC para o horário local do seu computador.  
 Na parte do mapa vai escurecer todas as lands que não forem lendárias para facilitar achar as lands que são lendárias.
 
-O script não te da vantagem nenhum no jogo, não aplica nada no servidor apenas faz alterações visuais no seu navegador então podem usar sem problemas
+O script não te da vantagem nenhuma no jogo, não aplica nada no servidor apenas faz alterações visuais no seu navegador então podem usar sem problemas
 ## Exemplo
 ![Preview](https://i.imgur.com/LY0w4Ms.png)
 
