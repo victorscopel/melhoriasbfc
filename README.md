@@ -9,4 +9,4 @@ Na parte do mapa vai escurecer todas as lands que não forem lendárias para fac
 ## Como instalar
 Você vai precisar da extenmsão tampermonkey ou Greasemonkey
 
-[Clique aqui para instalar](https://github.com/victorscopel/melhoriasbfc/raw/master/bfc.js)
+[Clique aqui para instalar](https://github.com/victorscopel/melhoriasbfc/raw/main/bfc.js)
