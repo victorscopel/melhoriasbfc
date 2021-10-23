@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         Blockfarm Melhorias
-// @version      1
-// @namespace    https://github.com/victorscopel/melhoriasbfc
-// @homepage hthttps://github.com/victorscopel/melhoriasbfc
-// @supportURL https://github.com/victorscopel/melhoriasbfc/issues
-// @description  Melhorias para o site do bfc
-// @author       Victor Scopel
-// @match        https://blockfarm.club/farm/*
-// @icon         https://www.google.com/s2/favicons?domain=blockfarm.club
-// @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
-// @updateURL https://raw.githubusercontent.com/victorscopel/melhoriasbfc/main/bfc.js
+// @name        Blockfarm Melhorias
+// @namespace   https://github.com/victorscopel/melhoriasbfc
+// @homepage    https://github.com/victorscopel/melhoriasbfc
+// @supportURL  https://github.com/victorscopel/melhoriasbfc/issues
+// @version     1
+// @description Melhorias para o site do bfc
+// @author      Victor Scopel
+// @match       https://blockfarm.club/farm/*
+// @icon        https://www.google.com/s2/favicons?domain=blockfarm.club
+// @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+// @updateURL   https://raw.githubusercontent.com/victorscopel/melhoriasbfc/main/bfc.js
 // @downloadURL https://raw.githubusercontent.com/victorscopel/melhoriasbfc/main/bfc.js
 // @grant GM_xmlhttpRequest
 // @grant GM_setValue
