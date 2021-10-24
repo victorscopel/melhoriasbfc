@@ -3,7 +3,7 @@
 // @namespace   https://github.com/victorscopel/melhoriasbfc
 // @homepage    https://github.com/victorscopel/melhoriasbfc
 // @supportURL  https://github.com/victorscopel/melhoriasbfc/issues
-// @version     1
+// @version     1.1
 // @description Melhorias para o site do bfc
 // @author      Victor Scopel
 // @match       https://blockfarm.club/farm/*
@@ -24,7 +24,7 @@
          horario = $(this).text().replace('Harvest on : ', '').replace(' UTC','').replace(' ',',').replace('-',',').replace('-',',').replace(':',',').replace(':',',');
          var array = horario.split(','),
          ano = array[0], mes = array[1], dia = array[2], hora = array[3], minuto = array[4], segundo = array[5];
-         let date = new Date(Date.UTC(ano, mes, dia, hora, minuto, segundo));
+         let date = new Date(Date.UTC(ano, mes-1, dia, hora, minuto, segundo));
          horario = date.toLocaleString('pt-BR');
          $(this).text("Colher em: "+horario);
     });
