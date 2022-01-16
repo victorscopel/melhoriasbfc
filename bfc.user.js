@@ -24,8 +24,7 @@
      $('.animate-pulse').each(function() {
          horario = $(this).text().replace(" Harvest : " ,'').replace("Harvest on: ",'').replace(/ /g,',').replace(/-/g,',').replace(/:/g,',');
          var array = horario.split(','),
-         ano = array[0], mes = array[1], dia = array[2], hora = array[3], minuto = array[4], segundo = array[5];
-         console.log(array);
+         ano = array[0], mes = array[1], dia = array[2], hora = array[3], minuto = array[4], segundo = array[5];         
          let date = new Date(Date.UTC(ano, mes-1, dia, hora, minuto, segundo));
          horario = date.toLocaleString('pt-BR');
          $(this).text("Colher em: "+horario);
