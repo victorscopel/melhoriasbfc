@@ -4,7 +4,10 @@ Este script vai converter automaticamente o horário de colher das plantas de UT
 
 O script não te da vantagem nenhuma no jogo, não aplica nada no servidor apenas faz alterações visuais no seu navegador então podem usar sem problemas
 ## Exemplo
-![Preview](https://i.imgur.com/NIGzhV2.png)
+BFC:  
+![Preview](https://i.imgur.com/NIGzhV2.png)  
+IFF:  
+![Preview](https://i.imgur.com/TM9cGVq.png)
 
 ## Como instalar
 Você vai precisar da extensão tampermonkey ou Greasemonkey
