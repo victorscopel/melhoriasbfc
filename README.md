@@ -1,4 +1,4 @@
-# Melhorias Block Farm Club
+# Melhorias Block Farm Club e Idle Fruit farm
 
 Este script vai converter automaticamente o horário de colher das plantas de UTC para o horário local do seu computador.  
 
